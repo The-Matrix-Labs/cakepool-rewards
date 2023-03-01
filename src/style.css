@@ -142,6 +142,7 @@ html{
   background: #343434;
   color: rgba(255, 255, 255, 0.49);
   border-radius: 10px;
+  overflow-x: hidden;
 }
 
 .mainContent{
@@ -170,6 +171,7 @@ html{
 .infoValue{
   font-weight: 600;
   font-size: 1.25rem;
+  overflow-x: hidden;
 }
 
 .tokenMetadata{
@@ -229,7 +231,6 @@ html{
 .calculatorGridItem img{
   width: 30px;
   height: 30px;
-  align-self: end;
   cursor: pointer;
 }
 

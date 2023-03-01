@@ -1,0 +1,16 @@
+.noStyle{
+    all: unset;
+    align-self: end;
+}
+.usdInputDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.inputClose{
+    background: transparent;
+}
+.closeBtn{
+    all: unset;
+    cursor: pointer;
+}
