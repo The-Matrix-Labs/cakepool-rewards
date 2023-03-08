@@ -1,7 +1,7 @@
 {
     "pancakeSwap": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-    "cakeToken": "0x138c3b0b1b6f05ac03e5d89bdd8861d171bce66a",
+    "cakeToken": "0x8d005B076DF5020348Db3D4552CEf8cb8E0e8422",
     "busd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "deadAddress": "0x000000000000000000000000000000000000dEaD",
-    "cakepoolReward": "0x138c3b0b1b6f05ac03e5d89bdd8861d171bce66a"
+    "cakepoolReward": "0x8d005B076DF5020348Db3D4552CEf8cb8E0e8422"
 }
